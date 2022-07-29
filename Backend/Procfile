@@ -1,0 +1,2 @@
+web: gunicorn atlas_api.wsgi
+worker: celery -A atlas_api worker -l info
