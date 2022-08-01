@@ -12,11 +12,12 @@ If you created something awesome and want to contribute then feel free to open a
 
 ## Features
 
-✔️ Login / Signup / EMail Verification
-✔️ Create, View, Update, Delete Listing
-✔️ Explore Listing By Catehories
-✔️ Account Management
-✔️ JWT Authentication
+- ✔️ Login / Signup / EMail Verification
+- ✔️ Create, View, Update, Delete Listing
+- ✔️ Explore Listing By Catehories
+- ✔️ Account Management
+- ✔️ JWT Authentication
+- ✔️ Mapbox Integration for Maps
 
 ## Getting Started
 
