@@ -61,7 +61,7 @@ $ python manage.py runserver
 ```
 ## Technologies Used in Frontend
 
--   [React.js](https://reactjs.org/
+-   [React.js](https://reactjs.org/)
 -   [Material UI](https://mui.com/)
 -   [Redu Toolkit](https://redux-toolkit.js.org/)
 -   [formik](https://formik.org/)
