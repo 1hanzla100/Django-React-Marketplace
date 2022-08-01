@@ -67,7 +67,7 @@ $ python manage.py runserver
 -   [formik](https://formik.org/)
 -   [Mapbox](https://www.mapbox.com/)
 
-## Technologies Used in Frontend
+## Technologies Used in Backend
 -   [Django](https://www.djangoproject.com/)
 -   [DjangoRESTFramework](https://www.django-rest-framework.org/)
 -   [Cloudinary](https://cloudinary.com/)
