@@ -3,7 +3,7 @@
 <a href="https://github.com/1hanzla100/Django-React-Marketplace/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/1hanzla100/Django-React-Marketplace"></a>
 <a href="https://github.com/1hanzla100/Django-React-Marketplace/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/1hanzla100/Django-React-Marketplace"></a> <a href="https://github.com/1hanzla100/Django-React-Marketplace/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/1hanzla100/Django-React-Marketplace"></a>
 
-##Atlas Mart is a OLX like Marketplace built with Python Django and React.js, Material UI
+## Atlas Mart is a OLX like Marketplace built with Python Django and React.js, Material UI
 
 If you want to **contribute** and make this much better for other developer have a look at [Issues](https://github.com/1hanzla100/Django-React-Marketplace/issues).
 
