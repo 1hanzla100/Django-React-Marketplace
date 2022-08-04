@@ -47,14 +47,14 @@ $ cd Django-React-Marketplace
 # Install dependencies
 $ cd Django-React-Marketplace
 $ cd Frontend && yarn
-$ cd Backebd && pip install -r requirements.txt
+$ cd Backend && pip install -r requirements.txt
 
 # Start React development server
 $ cd Frontend
 $ yarn start
 
 # Start Django development server
-$ cd Backebd 
+$ cd Backend 
 $ python manage.py migrate
 $ python manage.py runserver
 
